@@ -66,13 +66,13 @@ func (p *AdProcessor) Process() []byte {
 	log.Printf("req data:%v\n", p.RawReq.RequestURI)
 	status := execControl(p.InnerReq.HandlerId)
 	lockLock.Lock()
+	defer lockLock.Unlock()
 	if status {
 		atomic.AddInt32(&_succCnt, 1)
 	}else {
 		atomic.AddInt32(&_failCnt, 1)
 		return []byte(`<VAST version="3.0"></VAST>`)
 	}
-	lockLock.Unlock()
 	return loadVast(p.InnerReq.HandlerId)
 }
 
