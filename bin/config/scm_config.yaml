@@ -1,7 +1,7 @@
 binding_config:
+vast_config:
   addr: "0.0.0.0:11111"
 
-vast_config:
   s2s_list:
     - "./config/s2s.xml"
   pmp_list:

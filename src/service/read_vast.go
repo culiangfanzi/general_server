@@ -55,10 +55,12 @@ func execControl(t int) bool {
 	}
 	randCost := rand.Intn(ctr.DiffCost*2)
 	tt := ctr.AvgCost + randCost - ctr.DiffCost
-	if tt <= 0 {
-		tt = 1
+	if tt < 0 {
+		tt = 0
+	} 
+	if tt > 0 {
+		<-time.After(time.Millisecond * time.Duration(tt))
 	}
-	<- time.After(time.Millisecond * time.Duration(tt))
 
 	sucMax := rand.Intn(100)
 	rate := float32(sucMax)/100.0
