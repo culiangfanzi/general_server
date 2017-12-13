@@ -1,0 +1,87 @@
+<VAST version="3.0">
+    <Ad type="front" id="FP32">
+        <InLine>
+            <AdSystem version="1.0">hdt ssp</AdSystem>
+            <AdTitle>HDTCompany</AdTitle>
+            <Impression>
+                <![CDATA[
+https://clk.dxpmedia.com/hdtssp/win?dxpid=CiQ3Nzk4RjJBMS1FQkJDLTJFM0ItMkY5Ni1GNUQzMDAwMDAwMDASBmhkdHNzcBoBMSIQYjliNzA4Mjk5ZWMyMDY5NyoEMTg0NzIFMTEyMzc6BTc0ODE1QiAxMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YUig-PoFUhRoZHRzc3BfYmFubmVyX2pzX21wNFgAYiAxMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YWiWgaKIhytyBDIxMzSCAQCIAQA&price=2okRhbZ1PLCTAB8adNdY%2bg%3d%3d
+]]>
+            </Impression>
+            <Impression>
+                <![CDATA[
+https://clk.dxpmedia.com/hdtssp/tracking?dxpid=CiQ3Nzk4RjJBMS1FQkJDLTJFM0ItMkY5Ni1GNUQzMDAwMDAwMDASBmhkdHNzcBoBMSIQYjliNzA4Mjk5ZWMyMDY5NyoEMTg0NzIFMTEyMzc6BTc0ODE1QiAxMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YUig-PoFUhRoZHRzc3BfYmFubmVyX2pzX21wNFgAYiAxMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YWiWgaKIhytyBDIxMzSCAQCIAQA
+]]>
+            </Impression>
+            <Impression>
+                <![CDATA[
+https://ex.dxpmedia.com/count/h2/?id=1&k=0&t=cpm&w_p=2okRhbZ1PLCTAB8adNdY%2bg%3d%3d&ext=YmlkPTc3OThGMkExLUVCQkMtMkUzQi0yRjk2LUY1RDMwMDAwMDAwMCZwb3NfYmtfaWQ9RlAzMi0xJnVpZD0xMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YSZ1ZGlkPSZwb3NfaWQ9MjEzNCZjX2lkPTE5MzU2JnRfaWQ9NzQ4MTUmYXNrX3ByaWNlPTEyNTAwMDAwLjAwMDAwMCZwYXJ0bmVyX2lkPTE1OSZwYXJ0bmVyX3R5cGU9MCZ0X3NfaWQ9JmZidD0wJmNiZF9pZD0=&idfa=$run:idfa$&uid=$run:uid$&imei=$run:imei$&androidid=$run:androidid$&mac=$run:mac$&openuuid=$run:openuuid$
+]]>
+            </Impression>
+            <Description/>
+            <Creatives>
+                <Creative sequence="1" id="1">
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents/>
+                        <VideoClicks>
+                            <ClickTracking>
+                                <![CDATA[
+http://ex.dxpmedia.com/count/h2/?id=1&k=0&t=cpc&w_p=2okRhbZ1PLCTAB8adNdY%2bg%3d%3d&ext=YmlkPTc3OThGMkExLUVCQkMtMkUzQi0yRjk2LUY1RDMwMDAwMDAwMCZwb3NfYmtfaWQ9RlAzMi0xJnVpZD0xMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YSZ1ZGlkPSZwb3NfaWQ9MjEzNCZjX2lkPTE5MzU2JnRfaWQ9NzQ4MTUmYXNrX3ByaWNlPTEyNTAwMDAwLjAwMDAwMCZwYXJ0bmVyX2lkPTE1OSZwYXJ0bmVyX3R5cGU9MCZ0X3NfaWQ9JmZidD0wJmNiZF9pZD0=&idfa=$run:idfa$&uid=$run:uid$&imei=$run:imei$&androidid=$run:androidid$&mac=$run:mac$&openuuid=$run:openuuid$
+]]>
+                            </ClickTracking>
+                            <ClickThrough>
+                                <![CDATA[
+http://clk.dxpmedia.com/click/trk?dxpid=CiQ3Nzk4RjJBMS1FQkJDLTJFM0ItMkY5Ni1GNUQzMDAwMDAwMDASBmhkdHNzcBoBMSIQYjliNzA4Mjk5ZWMyMDY5NyoEMTg0NzIFMTEyMzc6BTc0ODE1QiAxMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YUig-PoFUhRoZHRzc3BfYmFubmVyX2pzX21wNFgAYiAxMDc5M2NlZjZkOWFjZmUwMTNiOWM3ZTA3ZTE5NTk2YWiWgaKIhytyBDIxMzSCAQCIAQA&sum=15871088096&src=hdtssp&ts=[timestamp]&url=http%3A%2F%2Fwww.hdtmedia.com
+]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" bitrate="" width="512" height="288" type="video/mp4" maintainAspectRatio="true" scalable="true">
+                                http://mp4.res.hunantv.com/pmp/37/1478589024785.mp4
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                    <NonLinearAds>
+                        <Duration>00:00:00</Duration>
+                        <TrackingEvents>
+                            <Tracking event="close">
+                                <![CDATA[http://y.da.hunantv.com/app/close?adid=&amp;adtotal=0&amp;appver=imgotv-iphone-5.5.6&amp;b=3&amp;cc=0&amp;channel=2&amp;cxid=&amp;from=yg&amp;grade=B&amp;gray=&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;idfa=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;imei=&amp;iscontinue=0&amp;isintact=1&amp;isshort=0&amp;mac=&amp;mn=iPhone5%2C2&amp;org=0&amp;os=1&amp;osver=ios_10.3.2&amp;pg=0&amp;plid=0&amp;sdkver=MGADSDK_V1.2.4_20171027&amp;tags=pcmp4&amp;udid=05e4dd6f187af0c2924c0d17298af7d6e7f81e93&amp;uname=&amp;up=&amp;v=4170227&amp;video_len=2249&amp;adtype=7&amp;bid=2_7&amp;cd=0&amp;ct=0&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;ip=&amp;ipdx=0&amp;mt=0&amp;o=0&amp;postion=0&amp;s=200048&amp;tn=1&amp;type=0&amp;t=30001&amp;pt=[TIME]]]>
+                            </Tracking>
+                            <Tracking event="landClick">
+                                <![CDATA[http://y.da.hunantv.com/app/landClick?adid=&amp;adtotal=0&amp;appver=imgotv-iphone-5.5.6&amp;b=3&amp;cc=0&amp;channel=2&amp;cxid=&amp;from=yg&amp;grade=B&amp;gray=&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;idfa=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;imei=&amp;iscontinue=0&amp;isintact=1&amp;isshort=0&amp;mac=&amp;mn=iPhone5%2C2&amp;org=0&amp;os=1&amp;osver=ios_10.3.2&amp;pg=0&amp;plid=0&amp;sdkver=MGADSDK_V1.2.4_20171027&amp;tags=pcmp4&amp;udid=05e4dd6f187af0c2924c0d17298af7d6e7f81e93&amp;uname=&amp;up=&amp;v=4170227&amp;video_len=2249&amp;adtype=7&amp;bid=2_7&amp;cd=0&amp;ct=0&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;ip=&amp;ipdx=0&amp;mt=0&amp;o=0&amp;postion=0&amp;s=200048&amp;tn=1&amp;type=0&amp;t=60001&amp;pt=[TIME]]]>
+                            </Tracking>
+                            <Tracking event="landClose">
+                                <![CDATA[http://y.da.hunantv.com/app/landClose?adid=&amp;adtotal=0&amp;appver=imgotv-iphone-5.5.6&amp;b=3&amp;cc=0&amp;channel=2&amp;cxid=&amp;from=yg&amp;grade=B&amp;gray=&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;idfa=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;imei=&amp;iscontinue=0&amp;isintact=1&amp;isshort=0&amp;mac=&amp;mn=iPhone5%2C2&amp;org=0&amp;os=1&amp;osver=ios_10.3.2&amp;pg=0&amp;plid=0&amp;sdkver=MGADSDK_V1.2.4_20171027&amp;tags=pcmp4&amp;udid=05e4dd6f187af0c2924c0d17298af7d6e7f81e93&amp;uname=&amp;up=&amp;v=4170227&amp;video_len=2249&amp;adtype=7&amp;bid=2_7&amp;cd=0&amp;ct=0&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;ip=&amp;ipdx=0&amp;mt=0&amp;o=0&amp;postion=0&amp;s=200048&amp;tn=1&amp;type=0&amp;t=60000&amp;pt=[TIME]]]>
+                            </Tracking>
+                            <Tracking event="landBlank">
+                                <![CDATA[http://y.da.hunantv.com/app/landBlank?adid=&amp;adtotal=0&amp;appver=imgotv-iphone-5.5.6&amp;b=3&amp;cc=0&amp;channel=2&amp;cxid=&amp;from=yg&amp;grade=B&amp;gray=&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;idfa=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;imei=&amp;iscontinue=0&amp;isintact=1&amp;isshort=0&amp;mac=&amp;mn=iPhone5%2C2&amp;org=0&amp;os=1&amp;osver=ios_10.3.2&amp;pg=0&amp;plid=0&amp;sdkver=MGADSDK_V1.2.4_20171027&amp;tags=pcmp4&amp;udid=05e4dd6f187af0c2924c0d17298af7d6e7f81e93&amp;uname=&amp;up=&amp;v=4170227&amp;video_len=2249&amp;adtype=7&amp;bid=2_7&amp;cd=0&amp;ct=0&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;ip=&amp;ipdx=0&amp;mt=0&amp;o=0&amp;postion=0&amp;s=200048&amp;tn=1&amp;type=0&amp;t=60002&amp;pt=[TIME]&amp;land_uri=[LANDURI]&amp;dsp=[DSP]]]>
+                            </Tracking>
+                            <Tracking event="fb">
+                                <![CDATA[http://y.da.hunantv.com/app/fb?adid=&amp;adtotal=0&amp;appver=imgotv-iphone-5.5.6&amp;b=3&amp;cc=0&amp;channel=2&amp;cxid=&amp;from=yg&amp;grade=B&amp;gray=&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;idfa=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;imei=&amp;iscontinue=0&amp;isintact=1&amp;isshort=0&amp;mac=&amp;mn=iPhone5%2C2&amp;org=0&amp;os=1&amp;osver=ios_10.3.2&amp;pg=0&amp;plid=0&amp;sdkver=MGADSDK_V1.2.4_20171027&amp;tags=pcmp4&amp;udid=05e4dd6f187af0c2924c0d17298af7d6e7f81e93&amp;uname=&amp;up=&amp;v=4170227&amp;video_len=2249&amp;adtype=7&amp;bid=2_7&amp;cd=0&amp;ct=0&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;ip=&amp;ipdx=0&amp;mt=0&amp;o=0&amp;postion=0&amp;s=200048&amp;tn=1&amp;type=0&amp;t=50000&amp;&amp;fec=[FBCODE]&amp;dec=[DEC]&amp;num=[NUM]]]>
+                            </Tracking>
+                        </TrackingEvents>
+                        <NonLinear width="640" height="120" expandedWidth="0" expandedHeight="0">
+                            <NonLinearClickTracking>
+                                <![CDATA[http://bj.imp.voiceads.cn/ad/click?clickId=ecd88935-ed28-47e9-803c-233d421d8af3-1506067993229&amp;traceId=669557b0-524c-4719-b563-de1bc7e7f14f&amp;cp=%7B%22action_down_x%22%3A%22IT_CLK_PNT_DOWN_X%22%2C%22action_down_y%22%3A%22IT_CLK_PNT_DOWN_Y%22%2C%22action_up_x%22%3A%22IT_CLK_PNT_UP_X%22%2C%22action_up_y%22%3A%22IT_CLK_PNT_UP_Y%22%7D&amp;inAId=19841&amp;wPltId=27&amp;wPltAdId=65A1D75F4621FC66825649B83A719A54&amp;wPr=HKNdAUYyugf3Yh6TYmO9hQ]]>
+                            </NonLinearClickTracking>
+                            <NonLinearClickTracking>
+                                <![CDATA[http://py.da.mgtv.com/log/clickLog?adtype=7&amp;b=3&amp;bid=WhPPPn9R6SOY1pv8&amp;channel=2&amp;cid=http%3A%2F%2Fimg1.360buyimg.com%2Fpop%2Fjfs%2Ft8383%2F94%2F2027964397%2F74443%2F941b3fa5%2F59c371ceN4d56ab84.jpg&amp;cost=a2d8f35b86081eff94153f9c8804cbd0&amp;cstyle=2&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;deal_id=&amp;deal_type=2&amp;desc=%E5%AE%B6%E7%BA%BA%E8%B7%A8%E5%BA%972%E4%BB%B68%E6%8A%98+%E8%87%AA%E8%90%A5%E6%BB%A1199%E5%87%8F100&amp;dev=34&amp;dspid=2&amp;event=0&amp;grade=B&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;ip=&amp;itemid=1279863%2C1273154%2C&amp;ld=http%3A%2F%2Fccc-x.jd.com%2Fdsp%2Fnc%3Fext%3DaHR0cHM6Ly9wcm8ubS5qZC5jb20vbWFsbC9hY3RpdmUvYTJ6ZFlFcFB0WW9yR2tmVHJRZHlBVW9hakhHL2luZGV4Lmh0bWw%26log%3DmS-uwZIVT79JOX3UURmq8qQ1ZGl8fTcTwmv09yVbRzwX93KSvZqCEwWars-HWliCcFvsxBw1BeMilt5aZ36FkcO8axeXLHwiq8VPCQX_bZjpJfy339GrPR8_psIlEwXLQGaVmk7Hibdvqq5_Ylkw8iV8pkhWOegHdTsacll8FaVNc3vUGmMUTn4hGOhNCyPeaRm9CebsHYXTicA6LXKgPaxYPTWELHxGoHHoQChOIO0UNxXYvAYwIENSuSDi2X8qJnwiL2AKkQxIQJsvNufTgqVp3WTEjRjftTfUOYgWJbqAih6TRegt5CRKJABXXrzE_H3MPsRKXt-q7gudCX4MJWzUawkIQ6Tmf1b9GNL8iVHy1hWMSXWr7BVqP8VrfQ8XzHBkCBKQ_rD6C6l4VeHtpZHaqmsWl2fx1BByt2cAx-tVWoNAGFDXb0R-M1lL1gg_4WmR3BKYTWlild4YhjmVYVwaor9kgukUrYtq1xblQdY%26v%3D404&amp;location=0&amp;os=1&amp;priority_level=9&amp;s=200048&amp;t=0&amp;tag=bid&amp;title=%E5%AE%B6%E7%BA%BA%E8%B7%A8%E5%BA%972%E4%BB%B68%E6%8A%98+%E8%87%AA%E8%90%A5%E6%BB%A1199%E5%87%8F100&amp;tn=0&amp;uid=WhPPPn9R6SOY1pv8&amp;v=4170227&amp;video_len=2249]]>
+                            </NonLinearClickTracking>
+                            <NonLinearClickTracking>
+                                <![CDATA[http://y.da.hunantv.com/app/click?adid=&amp;adtotal=0&amp;appver=imgotv-iphone-5.5.6&amp;b=3&amp;cc=0&amp;channel=2&amp;cxid=&amp;from=yg&amp;grade=B&amp;gray=&amp;hid=319268&amp;id=WhPPPn9R6SOY1pv8&amp;idfa=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;imei=&amp;iscontinue=0&amp;isintact=1&amp;isshort=0&amp;mac=&amp;mn=iPhone5%2C2&amp;org=0&amp;os=1&amp;osver=ios_10.3.2&amp;pg=0&amp;plid=0&amp;sdkver=MGADSDK_V1.2.4_20171027&amp;tags=pcmp4&amp;udid=05e4dd6f187af0c2924c0d17298af7d6e7f81e93&amp;uname=&amp;up=&amp;v=4170227&amp;video_len=2249&amp;adtype=7&amp;bid=2_7&amp;cd=0&amp;ct=0&amp;d=41E09710-7A3C-4994-8C09-FCAC1A83F7C6&amp;ip=&amp;ipdx=0&amp;mt=0&amp;o=0&amp;postion=0&amp;s=200048&amp;tn=1&amp;type=0&amp;t=0&amp;pt=[TIME]]]>
+                            </NonLinearClickTracking>
+                            <NonLinearClickThrough external="0" transfer="0" action="0">
+                                <![CDATA[http://ccc-x.jd.com/dsp/nc?ext=aHR0cHM6Ly9wcm8ubS5qZC5jb20vbWFsbC9hY3RpdmUvYTJ6ZFlFcFB0WW9yR2tmVHJRZHlBVW9hakhHL2luZGV4Lmh0bWw&amp;log=mS-uwZIVT79JOX3UURmq8qQ1ZGl8fTcTwmv09yVbRzwX93KSvZqCEwWars-HWliCcFvsxBw1BeMilt5aZ36FkcO8axeXLHwiq8VPCQX_bZjpJfy339GrPR8_psIlEwXLQGaVmk7Hibdvqq5_Ylkw8iV8pkhWOegHdTsacll8FaVNc3vUGmMUTn4hGOhNCyPeaRm9CebsHYXTicA6LXKgPaxYPTWELHxGoHHoQChOIO0UNxXYvAYwIENSuSDi2X8qJnwiL2AKkQxIQJsvNufTgqVp3WTEjRjftTfUOYgWJbqAih6TRegt5CRKJABXXrzE_H3MPsRKXt-q7gudCX4MJWzUawkIQ6Tmf1b9GNL8iVHy1hWMSXWr7BVqP8VrfQ8XzHBkCBKQ_rD6C6l4VeHtpZHaqmsWl2fx1BByt2cAx-tVWoNAGFDXb0R-M1lL1gg_4WmR3BKYTWlild4YhjmVYVwaor9kgukUrYtq1xblQdY&amp;v=404]]>
+                            </NonLinearClickThrough>
+                            <StaticResource creativeType="image/jpeg" style="2">
+                                <![CDATA[http://img1.360buyimg.com/pop/jfs/t8383/94/2027964397/74443/941b3fa5/59c371ceN4d56ab84.jpg]]>
+                            </StaticResource>
+                            <Title>家纺跨店2件8折 自营满199减100</Title>
+                        </NonLinear>
+                    </NonLinearAds>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
