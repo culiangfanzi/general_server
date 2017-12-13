@@ -15,13 +15,14 @@ type BingdingConfig struct {
 }
 
 type VastConfig struct {
-	VideoList []string	`yaml:"video_list"`
-	NoVideoList []string	`yaml:"no_video_list"`
+	PmpList []string	`yaml:"pmp_list"`
+	S2sList []string	`yaml:"s2s_list"`
 }
 
 type DetailControlConfig struct {
 	SuccRate float32		`yaml:"succ_rate"`
 	AvgCost	 int			`yaml:"avg_cost"`
+	DiffCost int			`yaml:"diff_cost"`
 }
 
 type AdxControl struct {

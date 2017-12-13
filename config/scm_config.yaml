@@ -2,15 +2,17 @@ binding_config:
   addr: "0.0.0.0:11111"
 
 vast_config:
-  video_list:
+  s2s_list:
     - "../config/s2s.xml"
-  no_video_list:
+  pdb_list:
     - "../config/pmp.xml"
 
 control_config:
   s2s_control:
     succ_rate: 0.8
     avg_cost: 100 #毫秒级别
+    diff_cost: 200
   adx_control:
     succ_rate: 0.6
-    avg_cost: 150
+    avg_cost: 50
+    diff_cost: 30

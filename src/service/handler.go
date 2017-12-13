@@ -27,7 +27,7 @@ type InnerRequest struct {
 
 func HandlerS2s(w http.ResponseWriter, r *http.Request) {
 	tr := new(InnerRequest)
-	tr.HandlerId = 1
+	tr.HandlerId = TYPE_HANDLER_S2S
 	req := &AdProcessor{
 		RawReq: r,
 		InnerReq: tr,
@@ -37,7 +37,7 @@ func HandlerS2s(w http.ResponseWriter, r *http.Request) {
 
 func HandlerPmp(w http.ResponseWriter, r *http.Request) {
 	tr := new(InnerRequest)
-	tr.HandlerId = 2
+	tr.HandlerId = TYPE_HANDLER_PMP
 	req := &AdProcessor{
 		RawReq: r,
 		InnerReq: tr,
@@ -47,7 +47,7 @@ func HandlerPmp(w http.ResponseWriter, r *http.Request) {
 
 func HandlerPdb(w http.ResponseWriter, r *http.Request) {
 	tr := new(InnerRequest)
-	tr.HandlerId = 2
+	tr.HandlerId = TYPE_HANDLER_PMP
 	req := &AdProcessor{
 		RawReq: r,
 		InnerReq: tr,

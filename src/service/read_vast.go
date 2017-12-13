@@ -16,7 +16,7 @@ var(
 
 
 func InitVast() {
-	for _, videoFile := range config.GetConfig().VastConf.VideoList {
+	for _, videoFile := range config.GetConfig().VastConf.S2sList {
 		d, err := ioutil.ReadFile(videoFile)
 		if err != nil {
 			log.Printf("load file failed: %v", err)
@@ -25,7 +25,7 @@ func InitVast() {
 		}
 	}
 
-	for _, noVideoFile := range config.GetConfig().VastConf.NoVideoList {
+	for _, noVideoFile := range config.GetConfig().VastConf.PmpList {
 		d, err := ioutil.ReadFile(noVideoFile)
 		if err != nil {
 			log.Printf("load file failed: %v", err)
@@ -53,9 +53,11 @@ func execControl(t int) bool {
 	case TYPE_HANDLER_PMP:
 		ctr = config.GetConfig().ControlConf.S2cControl
 	}
-	randCost := rand.Intn(ctr.AvgCost * 2)
-	tt := ctr.AvgCost + randCost
-
+	randCost := rand.Intn(ctr.DiffCost*2)
+	tt := ctr.AvgCost + randCost - ctr.DiffCost
+	if tt <= 0 {
+		tt = 1
+	}
 	<- time.After(time.Millisecond * time.Duration(tt))
 
 	sucMax := rand.Intn(100)
