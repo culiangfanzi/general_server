@@ -3,7 +3,6 @@ package service
 import(
 	"net/http"
 	"log"
-	"sync/atomic"
 	"sync"
 )
 
