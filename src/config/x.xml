@@ -1,0 +1,225 @@
+<VAST version="3.0">
+    <Ad type="front" id="200039">
+        <InLine>
+            <AdSystem>PlanB</AdSystem>
+            <AdTitle>279</AdTitle>
+            <Mid>825</Mid>
+            <Impression>
+                <![CDATA[http://y.da.hunantv.com/app/impression?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=0&pt=[TIME]&st=[STATUS]]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="complete">
+                                <![CDATA[http://y.da.hunantv.com/app/complete?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=3600&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="full">
+                                <![CDATA[http://y.da.hunantv.com/app/full?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=40000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClick">
+                                <![CDATA[http://y.da.hunantv.com/app/landClick?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=60001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/firstQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=900&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[http://y.da.hunantv.com/app/midpoint?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=1800&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/thirdQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=2700&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[http://y.da.hunantv.com/app/mute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=20000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[http://y.da.hunantv.com/app/unmute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=20001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="close">
+                                <![CDATA[http://y.da.hunantv.com/app/close?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=30001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClose">
+                                <![CDATA[http://y.da.hunantv.com/app/landClose?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=60000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landBlank">
+                                <![CDATA[http://y.da.hunantv.com/app/landBlank?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=60002&pt=[TIME]&land_uri=[LANDURI]&dsp=[DSP]&st=[STATUS]]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough external="0" transfer="0" action="0"><![CDATA[]]></ClickThrough>
+                            <ClickTracking external="0">
+                                <![CDATA[http://y.da.hunantv.com/app/click?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=0&pt=[TIME]&st=[STATUS]]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="512" height="288" style="0">
+                                <![CDATA[http://mobaliyun.res.mgtv.com/mediafiles/wiad_creative/50/14842740953635.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Error>
+                <![CDATA[http://y.da.hunantv.com/err?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=10000&errc=[ERRORCODE]&errm=[ERRORMSG]&erru=[ERRORURL]&st=[STATUS]]]></Error>
+            <Extensions>
+                <AdLost>
+                    <![CDATA[http://y.da.hunantv.com/adlost?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200039&tn=1&type=0&t=20000&lostid=[LOSTID]&tpn=[TPN]&lostt=[LOSTTIME]&st=[STATUS]]]></AdLost>
+            </Extensions>
+        </InLine>
+    </Ad>
+    <Ad type="front" id="200038">
+        <InLine>
+            <AdSystem>PlanB</AdSystem>
+            <AdTitle>279</AdTitle>
+            <Mid>825</Mid>
+            <Impression>
+                <![CDATA[http://y.da.hunantv.com/app/impression?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=0&pt=[TIME]&st=[STATUS]]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="unmute">
+                                <![CDATA[http://y.da.hunantv.com/app/unmute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=20001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="close">
+                                <![CDATA[http://y.da.hunantv.com/app/close?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=30001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClose">
+                                <![CDATA[http://y.da.hunantv.com/app/landClose?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=60000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/firstQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=900&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[http://y.da.hunantv.com/app/midpoint?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=1800&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/thirdQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=2700&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[http://y.da.hunantv.com/app/mute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=20000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landBlank">
+                                <![CDATA[http://y.da.hunantv.com/app/landBlank?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=60002&pt=[TIME]&land_uri=[LANDURI]&dsp=[DSP]&st=[STATUS]]]></Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[http://y.da.hunantv.com/app/complete?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=3600&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="full">
+                                <![CDATA[http://y.da.hunantv.com/app/full?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=40000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClick">
+                                <![CDATA[http://y.da.hunantv.com/app/landClick?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=60001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough external="0" transfer="0" action="0"><![CDATA[]]></ClickThrough>
+                            <ClickTracking external="0">
+                                <![CDATA[http://y.da.hunantv.com/app/click?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=0&pt=[TIME]&st=[STATUS]]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="512" height="288" style="0">
+                                <![CDATA[http://mobaliyun.res.mgtv.com/mediafiles/wiad_creative/50/14842740953635.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Error>
+                <![CDATA[http://y.da.hunantv.com/err?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=10000&errc=[ERRORCODE]&errm=[ERRORMSG]&erru=[ERRORURL]&st=[STATUS]]]></Error>
+            <Extensions>
+                <AdLost>
+                    <![CDATA[http://y.da.hunantv.com/adlost?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=2&type=0&t=20000&lostid=[LOSTID]&tpn=[TPN]&lostt=[LOSTTIME]&st=[STATUS]]]></AdLost>
+            </Extensions>
+        </InLine>
+    </Ad>
+    <Ad type="front" id="200038">
+        <InLine>
+            <AdSystem>PlanB</AdSystem>
+            <AdTitle>279</AdTitle>
+            <Mid>825</Mid>
+            <Impression>
+                <![CDATA[http://y.da.hunantv.com/app/impression?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=0&pt=[TIME]&st=[STATUS]]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="close">
+                                <![CDATA[http://y.da.hunantv.com/app/close?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=30001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClose">
+                                <![CDATA[http://y.da.hunantv.com/app/landClose?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=60000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/firstQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=900&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="midpoint">
+                                <![CDATA[http://y.da.hunantv.com/app/midpoint?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=1800&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/thirdQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=2700&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[http://y.da.hunantv.com/app/mute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=20000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[http://y.da.hunantv.com/app/unmute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=20001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landBlank">
+                                <![CDATA[http://y.da.hunantv.com/app/landBlank?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=60002&pt=[TIME]&land_uri=[LANDURI]&dsp=[DSP]&st=[STATUS]]]></Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[http://y.da.hunantv.com/app/complete?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=3600&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="full">
+                                <![CDATA[http://y.da.hunantv.com/app/full?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=40000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClick">
+                                <![CDATA[http://y.da.hunantv.com/app/landClick?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=60001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough external="0" transfer="0" action="0"><![CDATA[]]></ClickThrough>
+                            <ClickTracking external="0">
+                                <![CDATA[http://y.da.hunantv.com/app/click?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=0&pt=[TIME]&st=[STATUS]]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="512" height="288" style="0">
+                                <![CDATA[http://mobaliyun.res.mgtv.com/mediafiles/wiad_creative/50/14842740953635.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Error>
+                <![CDATA[http://y.da.hunantv.com/err?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=10000&errc=[ERRORCODE]&errm=[ERRORMSG]&erru=[ERRORURL]&st=[STATUS]]]></Error>
+            <Extensions>
+                <AdLost>
+                    <![CDATA[http://y.da.hunantv.com/adlost?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=279&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200038&tn=3&type=0&t=20000&lostid=[LOSTID]&tpn=[TPN]&lostt=[LOSTTIME]&st=[STATUS]]]></AdLost>
+            </Extensions>
+        </InLine>
+    </Ad>
+    <Ad type="front" id="200040">
+        <InLine>
+            <AdSystem>PlanB</AdSystem>
+            <AdTitle>52</AdTitle>
+            <Mid>825</Mid>
+            <Impression>
+                <![CDATA[http://y.da.hunantv.com/app/impression?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=0&pt=[TIME]&st=[STATUS]]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <TrackingEvents>
+                            <Tracking event="midpoint">
+                                <![CDATA[http://y.da.hunantv.com/app/midpoint?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=1800&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="thirdQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/thirdQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=2700&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="mute">
+                                <![CDATA[http://y.da.hunantv.com/app/mute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=20000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="unmute">
+                                <![CDATA[http://y.da.hunantv.com/app/unmute?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=20001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="close">
+                                <![CDATA[http://y.da.hunantv.com/app/close?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=30001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClose">
+                                <![CDATA[http://y.da.hunantv.com/app/landClose?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=60000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="firstQuartile">
+                                <![CDATA[http://y.da.hunantv.com/app/firstQuartile?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=900&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landBlank">
+                                <![CDATA[http://y.da.hunantv.com/app/landBlank?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=60002&pt=[TIME]&land_uri=[LANDURI]&dsp=[DSP]&st=[STATUS]]]></Tracking>
+                            <Tracking event="full">
+                                <![CDATA[http://y.da.hunantv.com/app/full?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=40000&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="landClick">
+                                <![CDATA[http://y.da.hunantv.com/app/landClick?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=60001&pt=[TIME]&st=[STATUS]]]></Tracking>
+                            <Tracking event="complete">
+                                <![CDATA[http://y.da.hunantv.com/app/complete?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=3600&pt=[TIME]&st=[STATUS]]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough external="0" transfer="0" action="0"><![CDATA[]]></ClickThrough>
+                            <ClickTracking external="0">
+                                <![CDATA[http://y.da.hunantv.com/app/click?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=0&pt=[TIME]&st=[STATUS]]]></ClickTracking>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" width="480" height="272" style="0">
+                                <![CDATA[http://mobaliyun.res.mgtv.com/video/50/8225f47dbfe26d7f29b77e8970c4e066.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+            <Error>
+                <![CDATA[http://y.da.hunantv.com/err?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=10000&errc=[ERRORCODE]&errm=[ERRORMSG]&erru=[ERRORURL]&st=[STATUS]]]></Error>
+            <Extensions>
+                <AdLost>
+                    <![CDATA[http://y.da.hunantv.com/adlost?adid=&adtotal=4&appver=5.1.0&b=4540&cc=0&channel=1&cxid=&from=yg&grade=B&gray=&hid=316387&id=WfcOC60CNFnmAhC_&idfa=&imei=&iscontinue=0&isintact=1&isshort=0&mac=&mn=&org=0&os=0&osver=android_6.0&pg=0&plid=0&sdkver=&tags=pcmp4&udid=&uname=&up=&v=4148165&video_len=5977&adtype=1&bid=&cd=825&ct=52&d=WehcFQh4iHZItzHl&ip=&ipdx=0&mt=0&o=556&postion=0&s=200040&tn=4&type=3&t=20000&lostid=[LOSTID]&tpn=[TPN]&lostt=[LOSTTIME]&st=[STATUS]]]></AdLost>
+            </Extensions>
+        </InLine>
+    </Ad>
+    <Extensions>
+        <Ads></Ads>
+    </Extensions>
+</VAST>
