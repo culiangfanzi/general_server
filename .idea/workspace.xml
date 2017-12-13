@@ -32,25 +32,25 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pmp.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/config/pmp.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding>
+                <element signature="n#Linear#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
+                <element signature="n#NonLinearAds#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="http_service.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/http_service.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pmp.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/pmp.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-              <folding>
-                <element signature="n#Linear#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
-                <element signature="n#NonLinearAds#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -77,21 +77,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/config/config.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="209">
+              <caret line="17" column="47" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scm_config.yaml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/scm_config.yaml">
+      <file leaf-file-name="s2s.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bin/config/s2s.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scm_config.yaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin/config/scm_config.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -103,18 +113,6 @@
             <state relative-caret-position="170">
               <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/config.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
-              <folding>
-                <element signature="e#13#108#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -163,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/config/config.go" />
         <option value="$PROJECT_DIR$/src/service/handler.go" />
         <option value="$PROJECT_DIR$/src/service/read_vast.go" />
+        <option value="$PROJECT_DIR$/bin/config/scm_config.yaml" />
       </list>
     </option>
   </component>
@@ -312,6 +311,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adserver_test_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adserver_test_server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -332,6 +349,9 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zxh\adserver_test_server\bin" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zxh\adserver_test_server\config" />
     </key>
@@ -866,7 +886,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/pmp.xml">
+    <entry file="file://$PROJECT_DIR$/bin/config/pmp.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -911,7 +931,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/scm_config.yaml">
+    <entry file="file://$PROJECT_DIR$/bin/config/scm_config.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
@@ -940,7 +960,7 @@
         <state relative-caret-position="665">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
-            <element signature="e#13#108#0" expanded="true" />
+            <element signature="e#13#108#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1016,34 +1036,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/s2s.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="43" column="29" selection-start-line="23" selection-start-column="19" selection-end-line="43" selection-end-column="29" />
-          <folding>
-            <element signature="n#Linear#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
-            <element signature="n#NonLinearAds#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/pmp.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="n#Linear#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
-            <element signature="n#NonLinearAds#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/config.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="43" column="24" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
           <folding>
-            <element signature="e#13#108#0" expanded="true" />
+            <element signature="e#13#108#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1100,18 +1098,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/scm_config.yaml">
+    <entry file="file://$PROJECT_DIR$/src/config/config.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="209">
+          <caret line="17" column="47" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/config/config.go">
+    <entry file="file://$PROJECT_DIR$/bin/config/pmp.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="51">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="n#Linear#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
+            <element signature="n#NonLinearAds#0;n#Creative#0;n#Creatives#0;n#InLine#0;n#Ad#0;n#VAST#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/config/s2s.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/config/scm_config.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
           <folding />
         </state>
       </provider>
