@@ -54,10 +54,14 @@ func execControl(t int) bool {
 		ctr = config.GetConfig().ControlConf.S2cControl
 	}
 	randCost := rand.Intn(ctr.AvgCost * 2)
-	<- time.After(time.Millisecond * time.Duration(ctr.AvgCost + randCost))
+	tt := ctr.AvgCost + randCost
+
+	<- time.After(time.Millisecond * time.Duration(tt))
 
 	sucMax := rand.Intn(100)
-	if float32(sucMax)/100.0 < ctr.SuccRate {
+	rate := float32(sucMax)/100.0
+	log.Printf("sleep time :%d, rate:%v\n", tt, rate)
+	if rate < ctr.SuccRate {
 		return true
 	}else {
 		return false

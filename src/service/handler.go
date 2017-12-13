@@ -63,14 +63,19 @@ type AdProcessor struct {
 
 
 func (p *AdProcessor) Process() []byte {
+	var flag bool = true
 	log.Printf("req data:%v\n", p.RawReq.RequestURI)
 	status := execControl(p.InnerReq.HandlerId)
 	lockLock.Lock()
-	defer lockLock.Unlock()
+	defer func() {
+		lockLock.Unlock()
+		log.Printf("req end:%v\n", flag)
+	}()
 	if status {
-		atomic.AddInt32(&_succCnt, 1)
+		_succCnt += 1
 	}else {
-		atomic.AddInt32(&_failCnt, 1)
+		_failCnt += 1
+		flag = false
 		return []byte(`<VAST version="3.0"></VAST>`)
 	}
 	return loadVast(p.InnerReq.HandlerId)
