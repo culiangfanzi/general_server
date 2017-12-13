@@ -21,7 +21,7 @@ func InitVast() {
 		if err != nil {
 			log.Printf("load file failed: %v", err)
 		} else {
-			typeVastMap[TYPE_VIDEO] = append(typeVastMap[TYPE_VIDEO], RawVast(d))
+			typeVastMap[TYPE_HANDLER_S2S] = append(typeVastMap[TYPE_HANDLER_S2S], RawVast(d))
 		}
 	}
 
@@ -30,7 +30,7 @@ func InitVast() {
 		if err != nil {
 			log.Printf("load file failed: %v", err)
 		} else {
-			typeVastMap[TYPE_NOVIDEO] = append(typeVastMap[TYPE_NOVIDEO], RawVast(d))
+			typeVastMap[TYPE_HANDLER_PMP] = append(typeVastMap[TYPE_HANDLER_PMP], RawVast(d))
 		}
 	}
 	//log.Printf("all vast data:%v\n", typeVastMap)

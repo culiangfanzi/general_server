@@ -4,9 +4,7 @@ binding_config:
 vast_config:
   video_list:
     - "../config/s2s.xml"
-    - "../config/pmp.xml"
   no_video_list:
-    - "../config/s2s.xml"
     - "../config/pmp.xml"
 
 control_config:
