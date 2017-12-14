@@ -57,7 +57,7 @@ func execControl(t int) bool {
 	tt := ctr.AvgCost + randCost - ctr.DiffCost
 	if tt < 0 {
 		tt = 0
-	} 
+	}
 	if tt > 0 {
 		<-time.After(time.Millisecond * time.Duration(tt))
 	}
